@@ -16,6 +16,7 @@ _Introductory resources_
 * [Coursera: Python for Genomic Data Science](https://www.coursera.org/course/genpython) - Free online course starting July 6th, 2015 (sign up!)
 
 _Video resources_
+* [Khan Academy Python Videos](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs)
 
 ### Learning git
 * [Basic git, getting started](https://github.com/mtop/gbg-python-user-group/wiki/Learning-Git!)
