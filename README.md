@@ -19,7 +19,7 @@ _Introductory resources_
 _Video resources_
 * [Khan Academy Python Videos](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs)
 
-### Learning git
+### Git
 * [Basic git, getting started](https://github.com/mtop/gbg-python-user-group/wiki/Learning-Git!)
 * [Git branching](http://pcottle.github.io/learnGitBranching/)
 
