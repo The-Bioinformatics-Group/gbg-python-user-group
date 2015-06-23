@@ -7,7 +7,7 @@ If you want to join please contact [Mats Töpel](mailto:info@matstopel.se?Subjec
  
 ## Learning resources
 
-When joining our group, please check out our [Wiki](https://github.com/mtop/gbg-python-user-group/wiki) for various quick tutorials for the resources used in this group. These tutorials help new users to get started and to set basic working procedures which help to coordinate our joined projects. Additionally we provide interesting links that can help you to improve with various softwares and with Python coding in general. Please feel free to edit, add and create new files on this Github page!  
+When joining our group, please check out our [Wiki](https://github.com/mtop/gbg-python-user-group/wiki) for various quick tutorials for the resources used in this group. These tutorials help new users to get started and to set basic working procedures which help to coordinate our joined projects. Additionally we provide interesting links that can help you to improve with various softwares and with Python coding in general. Please feel free to edit, add and create new files on this Github page! 
 
 ### Python
 _Introductory resources_
@@ -20,10 +20,6 @@ _Introductory resources_
 _Video resources_
 * [Khan Academy Python Videos](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs)
 
-_template_engine.py_
-This is a script that will create a template script for you that contains "boilerplate functions" such as argparse, named to your choosing. Usage:
-
-    template_engine.py name <desired_name.py>
 
 ### Git
 * [Basic git, getting started](https://github.com/mtop/gbg-python-user-group/wiki/Learning-Git!)
