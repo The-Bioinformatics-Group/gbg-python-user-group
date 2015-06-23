@@ -1,5 +1,4 @@
-#
-gbg-python-user-group
+#gbg-python-user-group
 
 ## Who we are
  
@@ -20,6 +19,11 @@ _Introductory resources_
 
 _Video resources_
 * [Khan Academy Python Videos](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs)
+
+_template_engine.py_
+This is a script that will create a template script for you that contains "boilerplate functions" such as argparse, named to your choosing. Usage:
+
+    template_engine.py name <desired_name.py>
 
 ### Git
 * [Basic git, getting started](https://github.com/mtop/gbg-python-user-group/wiki/Learning-Git!)
