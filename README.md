@@ -1,7 +1,11 @@
 # gbg-python-user-group
-A place to share code and information within the group
 
-## Learning python
+## Introduction
+(What is the purpose of this group)
+
+## Learning resources
+
+### Learning python
 * [Codecademy: Python](http://www.codecademy.com/tracks/python) - Gentle and interactive introduction to Python basics, step-by-step construction of complex programs from simpler building blocks.
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
 
