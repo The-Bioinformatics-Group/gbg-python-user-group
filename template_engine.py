@@ -2,6 +2,7 @@
 
 import sys
 
+# Checking if argparse is installed
 try:
 	import argparse
 except ImportError:
