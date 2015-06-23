@@ -3,7 +3,7 @@
 ## Who we are
  
 We are a heterogenous group of (bio)informaticians, scientists and people of other occupations that set it as our aim to jointly learn and improve our Python programming skills. We are archiving this by hands-on programming tasks and by being available for each other for questions occuring along the path. We are using [Slack](https://slack.com/) to stay connected and to coordinate our projects. Any coding is uploaded and shared on [Github](https://github.com/), enabling a dynamic multi-author working environment. We understand ourselves as students and teachers at the same time, profiting from each others knowledge and skills. We are very happy about new members in our community and want you to feel invited and welcome if you are interested in joining us.  
-If you want to join please contact [Mats Töpel](mailto:info@matstopel.se?Subject="gbg-python-user-group").  
+If you want to join please contact [Mats Töpel](mailto:info@matstopel.se?Subject=gbg-python-user-group).  
  
 ## Learning resources
 
