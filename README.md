@@ -1,4 +1,5 @@
-# gbg-python-user-group
+#
+gbg-python-user-group
 
 ## Who we are
  
@@ -15,6 +16,7 @@ _Introductory resources_
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
 * [Pasteur Institute introduction to Python](http://www.pasteur.fr/formation/infobio/python/)
 * [Coursera: Python for Genomic Data Science](https://www.coursera.org/course/genpython) - Free online course starting July 6th, 2015 (sign up!)
+* [Learn Python subreddit](http://www.reddit.com/r/learnpython/)
 
 _Video resources_
 * [Khan Academy Python Videos](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs)
