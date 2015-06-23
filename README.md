@@ -11,6 +11,7 @@
 Introductory resources
 * [Codecademy: Python](http://www.codecademy.com/tracks/python) - Gentle and interactive introduction to Python basics, step-by-step construction of complex programs from simpler building blocks.
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
+* [Coursera: Python for Genomic Data Science](https://www.coursera.org/course/genpython) - Free online course starting July 6th, 2015 (sign up!)
 
 Video resources
 
