@@ -14,11 +14,17 @@ _Introductory resources_
 * [Codecademy: Python](http://www.codecademy.com/tracks/python) - Gentle and interactive introduction to Python basics, step-by-step construction of complex programs from simpler building blocks.
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
 * [Pasteur Institute introduction to Python](http://www.pasteur.fr/formation/infobio/python/)
-* [Coursera: Python for Genomic Data Science](https://www.coursera.org/course/genpython) - Free online course starting July 6th, 2015 (sign up!)
 * [Learn Python subreddit](http://www.reddit.com/r/learnpython/)
 
 _Video resources_
 * [Khan Academy Python Videos](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs)
+
+_Massive Open Online Courses (MOOC's)_
+* [Coursera: Python for Genomic Data Science](https://www.coursera.org/course/genpython) - Free online course starting July 6th, 2015 (sign up!)
+* [Edx: Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x)
+* [Edx: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0)
+* [Edx: CS For All: Introduction to Computer Science and Python Programming](https://www.edx.org/course/cs-all-introduction-computer-science-harveymuddx-cs005x) 
+
 
 ### Git
 * [Basic git, getting started](https://github.com/mtop/gbg-python-user-group/wiki/Learning-Git!)
