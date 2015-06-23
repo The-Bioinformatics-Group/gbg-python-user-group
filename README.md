@@ -11,6 +11,7 @@
 Introductory resources
 * [Codecademy: Python](http://www.codecademy.com/tracks/python) - Gentle and interactive introduction to Python basics, step-by-step construction of complex programs from simpler building blocks.
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
+* [Pasteur Institute introduction to Python](http://www.pasteur.fr/formation/infobio/python/)
 
 Video resources
 
