@@ -1,5 +1,4 @@
-#
-gbg-python-user-group
+#gbg-python-user-group
 
 ## Who we are
  
