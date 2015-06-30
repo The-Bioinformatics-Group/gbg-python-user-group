@@ -21,6 +21,7 @@ _Video resources_
 * [Khan Academy Python Videos](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs)
 
 _Massive Open Online Courses (MOOC's)_
+* [Coursera: Programming for Everybody (Python)] (https://class.coursera.org/pythonlearn-004/)
 * [Coursera: Python for Genomic Data Science](https://www.coursera.org/course/genpython) - Free online course starting July 6th, 2015 (sign up!)
 * [Edx: Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x)
 * [Edx: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0)
