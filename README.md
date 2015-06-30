@@ -15,7 +15,8 @@ _Introductory resources_
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
 * [Pasteur Institute introduction to Python](http://www.pasteur.fr/formation/infobio/python/)
 * [Learn Python subreddit](http://www.reddit.com/r/learnpython/)
-
+* [Programming for Everybody (Python)] (https://class.coursera.org/pythonlearn-004/)
+* 
 _Video resources_
 * [Khan Academy Python Videos](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs)
 
