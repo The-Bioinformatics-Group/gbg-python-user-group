@@ -19,6 +19,7 @@ _Introductory resources_
 * 
 _Video resources_
 * [Khan Academy Python Videos](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs)
+* [pythonprogramming.net](http://pythonprogramming.net)
 
 _Massive Open Online Courses (MOOC's)_
 * [Coursera: Programming for Everybody (Python)] (https://class.coursera.org/pythonlearn-004/)
