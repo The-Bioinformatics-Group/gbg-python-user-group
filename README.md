@@ -16,6 +16,9 @@ _Introductory resources_
 * [Pasteur Institute introduction to Python](http://www.pasteur.fr/formation/infobio/python/)
 * [Learn Python subreddit](http://www.reddit.com/r/learnpython/)
 * [Programming for Everybody (Python)] (https://class.coursera.org/pythonlearn-004/)
+* [The official Python site] (http://www.python.org)
+* [Beginning Python for Bioinformatics] (http://www.onlamp.com/pub/a/python/2002/10/17/biopython.html)
+* [Interactive Python tutorial] (http://www.learnpython.org/)
  
 _Video resources_
 * [Khan Academy Python Videos](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs)
