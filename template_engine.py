@@ -57,8 +57,9 @@ def main():
 if __name__ == "__main__":
     main()
 """)
+	
+	output_file.close()
 
-
-
+	
 if __name__ == "__main__":
 	main()
