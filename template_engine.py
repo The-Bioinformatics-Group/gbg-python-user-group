@@ -26,6 +26,10 @@ def main():
 
 	output_file.write("""#!/usr/bin/env python
 
+# Licence: 
+
+# Usage:
+
 import sys
 
 try:
