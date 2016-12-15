@@ -45,7 +45,7 @@ except ImportError:
 	else:
 		sys.exit("[Error] Exiting due to missing dependency \'argparser\'")
 														        
-parser = argparse.ArgumentParser(prog="ADD-SCRIPT-NAME-HERE")
+parser = argparse.ArgumentParser(prog="ADD-SCRIPT-NAME-HERE", description="ADD A DESCRIPTION OF YOUR PROGRAM HERE.")
 parser.add_argument("-v", "--verbose", action="store_true", help="Be more verbose")
 args = parser.parse_args()
 
