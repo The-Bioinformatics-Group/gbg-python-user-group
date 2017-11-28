@@ -5,18 +5,18 @@
 # 1. Define the functions 
 
 # Do the calcultation but return nothing.
-def return_nothing(cat):
-	dog = cat + 1
+def return_nothing(x):
+	y = x + 1
 
 # Do the calculation print the value but return nothing.
-def print_no_return(cat):
-	dog = cat + 1
-	print dog
+def print_no_return(x):
+	z = x + 1
+	print "z =", z
 
 # Do the calculation and return the value.
-def return_value(cat):
-	dog = cat + 1
-	return dog
+def return_value(x):
+	w = x + 1
+	return w
 
 # 2. Run the code
 
