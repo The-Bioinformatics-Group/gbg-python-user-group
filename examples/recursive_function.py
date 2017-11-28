@@ -1,13 +1,17 @@
 #!/usr/bin/python
 
-# Example of a recursive function that will result in 
-# a RuntimeError when the maximum recursion depth is exceeded.
+# Example of a recursive function
+
+# 1. Assign some values to some varables
+n = 1
+m = 100
 
 # 1. Define the function
 def recursive_count(n):
-	print "n"
+	print n
 	n += 1
-	recursive_count(n)
+	if n < m:
+		recursive_count(n)
 
 # 2. Run the program
-recursive_count(1)
+recursive_count(n)
